@@ -2,7 +2,7 @@
 
 ## About me
 
- <img src="./profile%20pic.jpg" width = "400" height = "300" alt="" align=center />
+ <img src="./profilePic.jpg" width = "400" height = "300" alt="" align=center />
 <!-- ![Image]() -->
 
 
