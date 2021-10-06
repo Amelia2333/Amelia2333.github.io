@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages -->
+# Qian Yang's Personal Page
+
+
+## About me
+I am a third year M.S. student at Computer Science and Engineering in [Sourther University of Science and Technology](https://www.sustech.edu.cn/), advised by Assistant Professor [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and Research Assistant Professor [Qianyi Huang](https://faculty.sustech.edu.cn/huangqy/en/). 
+
+
 
 You can use the [editor on GitHub](https://github.com/Amelia2333/QianYang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
