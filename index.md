@@ -6,9 +6,9 @@
 <!-- ![Image]() -->
 
 
-Now I am a third year M.S. student at the Department of Computer Science and Engineering in [SUSTech](https://www.sustech.edu.cn/), advised by Assistant Professor [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and Research Assistant Professor [Qianyi Huang](https://faculty.sustech.edu.cn/huangqy/en/). 
+Now I am a first year Ph.D student at the Department of Computer Science and Engineering in [SUSTech](https://www.sustech.edu.cn/), advised by Assistant Professor [Jin Zhang](https://faculty.sustech.edu.cn/zhangj4/) and Research Assistant Professor [Qianyi Huang](https://scholar.google.com/citations?user=AZAiLpkAAAAJ&hl=zh-CN&oi=ao). 
 
-In 2019, I received my B.S. degree in the Department of Electrical and Electronic Engineering in SUSTech.
+I received my MA.Eng degree and B.S. degree in the Department of Electrical and Electronic Engineering of SUSTech in 2022 and 2019, respectively.
 
 
 ## Research Interests
@@ -17,7 +17,7 @@ In 2019, I received my B.S. degree in the Department of Electrical and Electroni
   - Joint Communication and Radar Sensing
 
 ## Contact
-Email: 11930638@mail.sustech.edu.cn
+Email: yangq2022@mail.sustech.edu.cn
 
 <!-- 
 You can use the [editor on GitHub](https://github.com/Amelia2333/QianYang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
